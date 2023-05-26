@@ -1,10 +1,11 @@
 # youtube_data_harvesting_and_warehousing
+
 # Domain : Social Media
 Problem Statement :
 The problem statement is to create a Streamlit application that allows users to access and analyze data from multiple YouTube channels. Extracting data using Youtube API and storing it on MongoDB then Transforming it to a relational databaselike MySQL. For getting various info about youtube channels.
 
 # Technologies used :
-1.Python
+1.python
 2.MongoDB
 3.MySQL
 4.YouTube Data API
